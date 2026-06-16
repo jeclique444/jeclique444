@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jeric Lique  
+**jeclique444**  
 
-<!--
-**jeclique444/jeclique444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Lipa City, Batangas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"I don't just fix the problem — I make sure the customer learns how to do it themselves."*
+
+---
+
+# Hey! I'm Jeric — but most people call me Jec 👋
+
+I'm an **Information Technology student** at De La Salle Lipa with a background in **e-commerce technical support**.  
+
+I used to work as a customer experience agent in a call center — guiding clients through browser issues, login failures, payment errors, and promo code glitches while teaching them how to master the website UI on their own.
