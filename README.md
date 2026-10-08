@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=Jeric%20Lique&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Jeric%20Lique&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Student&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=De+La+Salle+Lipa+%7C+Lipa+City%2C+Batangas;Customer+Experience+%2B+Web+Development;Building+software+people+actually+enjoy+using" alt="Typing intro" />
 
@@ -83,8 +83,8 @@ Now I bring that mindset into software development, building web applications th
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/jeclique444/jeclique444/output/dist/arcade-snake.svg" alt="Arcade snake contribution graph" />
+<img width="100%" src="https://raw.githubusercontent.com/jeclique444/jeclique444/output/arcade-snake.svg" alt="Arcade snake contribution graph" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=100&section=footer" alt="Footer" />
