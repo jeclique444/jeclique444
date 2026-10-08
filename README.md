@@ -15,76 +15,83 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="42%" valign="top">
+
 <h2 align="center">About</h2>
 
-<p align="center">
-I'm an Information Technology student at <b>De La Salle Lipa</b> with hands-on experience in <b>e-commerce technical support</b> and as a <b>Customer Experience Agent</b>.<br/>
-Helping real customers solve real problems taught me to communicate clearly, stay patient under pressure, and explain technical concepts in plain language.
+<p>
+I'm an Information Technology student at <b>De La Salle Lipa</b> with hands-on experience in <b>e-commerce technical support</b> and as a <b>Customer Experience Agent</b>. Helping real customers solve real problems taught me to communicate clearly, stay patient under pressure, and explain technical concepts in plain language.
 </p>
 
-<p align="center">
+<p>
 Now I bring that mindset into software development, building web applications that are functional, intuitive, and easy for anyone to use.
 </p>
 
-<div align="center">
-
-| | |
-|:---|:---|
-| **Currently building** | Projects with TypeScript and React |
-| **Currently learning** | Modern web development and clean code practices |
-| **Ask me about** | Customer experience, technical support, web development |
-| **Goal** | Build products that make users' lives easier |
-
-</div>
-
-<br/>
-
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-
-<h3><b>Languages</b></h3>
-
-<img height="32" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img height="32" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img height="32" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img height="32" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img height="32" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
-<h3><b>Frameworks and Runtimes</b></h3>
-
-<img height="32" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img height="32" src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img height="32" src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img height="32" src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-<h3><b>Database, Deployment and Tools</b></h3>
-
-<img height="32" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img height="32" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img height="32" src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img height="32" src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img height="32" src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-<img height="32" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img height="32" src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img height="32" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img height="32" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img height="32" src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
-</div>
-
-<br/>
+<p>
+<b>Currently building:</b> Projects with TypeScript and React<br/>
+<b>Currently learning:</b> Modern web development and clean code practices<br/>
+<b>Ask me about:</b> Customer experience, technical support, web development<br/>
+<b>Goal:</b> Build products that make users' lives easier
+</p>
 
 <h2 align="center">GitHub Stats</h2>
 
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=jeclique444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+<br/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeclique444&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+
+</td>
+<td width="58%" valign="top">
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center"><b>Languages</b></h3>
+
+<p align="center">
+<img height="28" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img height="28" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img height="28" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img height="28" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img height="28" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+<h3 align="center"><b>Frameworks and Runtimes</b></h3>
+
+<p align="center">
+<img height="28" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img height="28" src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img height="28" src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img height="28" src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<h3 align="center"><b>Database, Deployment and Tools</b></h3>
+
+<p align="center">
+<img height="28" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img height="28" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img height="28" src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img height="28" src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img height="28" src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+<img height="28" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img height="28" src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img height="28" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img height="28" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img height="28" src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=jeclique444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeclique444&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-
-<br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/jeclique444/jeclique444/output/arcade-snake.svg" alt="Arcade snake contribution graph" />
 
