@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Arcade Snake
 
 on:
   schedule:
@@ -15,13 +15,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          node-version: 20
+
+      - name: Build arcade snake SVG
+        run: node scripts/arcade-snake.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
