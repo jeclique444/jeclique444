@@ -17,9 +17,16 @@
 
 ## About
 
-I'm an Information Technology student at **De La Salle Lipa** with hands-on experience in **e-commerce technical support** and as a **Customer Experience Agent**. Helping real customers solve real problems taught me to communicate clearly, stay patient under pressure, and explain technical concepts in plain language.
+<p align="center">
+I'm an Information Technology student at <b>De La Salle Lipa</b> with hands-on experience in <b>e-commerce technical support</b> and as a <b>Customer Experience Agent</b>.<br/>
+Helping real customers solve real problems taught me to communicate clearly, stay patient under pressure, and explain technical concepts in plain language.
+</p>
 
+<p align="center">
 Now I bring that mindset into software development, building web applications that are functional, intuitive, and easy for anyone to use.
+</p>
+
+<div align="center">
 
 | | |
 |:---|:---|
@@ -28,11 +35,15 @@ Now I bring that mindset into software development, building web applications th
 | **Ask me about** | Customer experience, technical support, web development |
 | **Goal** | Build products that make users' lives easier |
 
+</div>
+
 <br/>
 
 ## Tech Stack
 
-### **Languages**
+<div align="center">
+
+<h3><b>Languages</b></h3>
 
 <img height="32" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img height="32" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,14 +53,14 @@ Now I bring that mindset into software development, building web applications th
 <img height="32" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img height="32" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 
-### **Frameworks and Runtimes**
+<h3><b>Frameworks and Runtimes</b></h3>
 
 <img height="32" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img height="32" src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img height="32" src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img height="32" src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
-### **Database, Deployment and Tools**
+<h3><b>Database, Deployment and Tools</b></h3>
 
 <img height="32" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img height="32" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -62,9 +73,13 @@ Now I bring that mindset into software development, building web applications th
 <img height="32" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img height="32" src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
+</div>
+
 <br/>
 
 ## GitHub Stats
+
+<div align="center">
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=jeclique444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeclique444&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
@@ -72,5 +87,7 @@ Now I bring that mindset into software development, building web applications th
 <br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/jeclique444/jeclique444/output/arcade-snake.svg" alt="Arcade snake contribution graph" />
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=100&section=footer" alt="Footer" />
