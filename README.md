@@ -78,7 +78,7 @@ Now I bring that mindset into software development, building web applications th
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=jeclique444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200&border_radius=10" alt="GitHub Stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=jeclique444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200&border_radius=10" alt="GitHub Stats" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeclique444&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&border_radius=10" alt="Top Languages" />
 
 <br/><br/>
